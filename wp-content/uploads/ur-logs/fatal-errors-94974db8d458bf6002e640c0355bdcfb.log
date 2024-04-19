@@ -14,3 +14,9 @@
 
 2024-04-19T20:53:25+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/vendor/composer/jetpack_autoload_classmap.php on line 5251
 
+2024-04-19T21:15:29+00:00 CRITICAL Out of memory (allocated 71303168) (tried to allocate 4194304 bytes) in /wordpress/wp-includes/functions.php on line 2
+
+2024-04-19T21:21:43+00:00 CRITICAL Out of memory (allocated 83886080) (tried to allocate 4096 bytes) in /wordpress/wp-includes/rest-api/class-wp-rest-server.php on line 3
+
+2024-04-19T21:22:04+00:00 CRITICAL Out of memory (allocated 73400320) (tried to allocate 4194304 bytes) in /wordpress/wp-includes/functions.php on line 2
+
