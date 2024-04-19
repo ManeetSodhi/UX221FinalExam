@@ -6,3 +6,11 @@
 
 2024-04-19T20:38:09+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/vendor/composer/jetpack_autoload_classmap.php on line 5251
 
+2024-04-19T20:52:10+00:00 CRITICAL Out of memory (allocated 67108864) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/vendor/composer/jetpack_autoload_classmap.php on line 5251
+
+2024-04-19T20:52:35+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/vendor/composer/jetpack_autoload_classmap.php on line 5251
+
+2024-04-19T20:53:00+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/vendor/composer/jetpack_autoload_classmap.php on line 5251
+
+2024-04-19T20:53:25+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/vendor/composer/jetpack_autoload_classmap.php on line 5251
+

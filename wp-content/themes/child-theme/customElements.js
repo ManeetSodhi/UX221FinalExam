@@ -8,7 +8,7 @@ customElements.define("x-year", CopyrightYear);
 
 class ChooseSide extends HTMLElement{
 	connectedCallback(){
-		this.innerHTML = `<a href="Kit-Maker">Kit Maker </a> &nbsp <a href="Kit-Developer"> Kit Developer</a>`
+		this.innerHTML = `<a href="shop">Kit Maker </a> &nbsp <a href="Kit-Developer"> Kit Developer</a>`
 	}
 }
 
